@@ -1,21 +1,21 @@
 <svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="286" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 15:38:57 +0000    56809 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 15:38:57 +0000     1103 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 15:38:57 +0000    33212 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 15:38:57 +0000     3323 bytes  bin/cli.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 15:38:57 +0000      266 bytes  bin/errors.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 15:38:57 +0000     4889 bytes  changelog.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 15:38:57 +0000     3014 bytes  index.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 15:38:57 +0000      233 bytes  lib/commands.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 15:38:57 +0000       53 bytes  lib/commands/index.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 15:38:57 +0000      138 bytes  lib/commands/silent.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 15:38:57 +0000      196 bytes  lib/commands/version.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 15:38:57 +0000     2666 bytes  lib/generator.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 15:38:57 +0000     1832 bytes  lib/plugins.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 15:38:57 +0000      254 bytes  lib/templates/assemblefile.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 15:38:57 +0000     1769 bytes  lib/utils.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 15:38:57 +0000     3861 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 15:40:37 +0000    56809 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 15:40:37 +0000     1103 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 15:40:37 +0000    33212 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 15:40:37 +0000     3323 bytes  bin/cli.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 15:40:37 +0000      266 bytes  bin/errors.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 15:40:37 +0000     4889 bytes  changelog.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 15:40:37 +0000     3014 bytes  index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 15:40:37 +0000      233 bytes  lib/commands.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 15:40:37 +0000       53 bytes  lib/commands/index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 15:40:37 +0000      138 bytes  lib/commands/silent.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 15:40:37 +0000      196 bytes  lib/commands/version.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 15:40:37 +0000     2666 bytes  lib/generator.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 15:40:37 +0000     1832 bytes  lib/plugins.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 15:40:37 +0000      254 bytes  lib/templates/assemblefile.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 15:40:37 +0000     1769 bytes  lib/utils.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 15:40:37 +0000     3861 bytes  package.json</tspan>
 </text>
 </svg>
